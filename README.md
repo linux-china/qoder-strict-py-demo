@@ -3,6 +3,12 @@ Ultra-strict Python project template for Qoder
 
 Ultra-strict Python demo project using uv, ruff, and basedpyright.
 
+# Get Started
+
+- Install [Qoder AI IDE](https://qoder.com/): Qoder has basedpyright built-in already.
+- Clone this repo: `git clone https://github.com/qoder-strict-py-demo.git`
+- Install dependencies: `uv sync`
+
 # Toolbox
 
 - Python: 3.12+
