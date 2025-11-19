@@ -15,7 +15,16 @@ Ultra-strict Python project template using uv, ruff, and basedpyright.
 - Code quality tools: [radon](https://pypi.org/project/radon/), [skylos](https://github.com/duriantaco/skylos)
 - Testing & coverage: pytest + coverage (80% minimum by default)
 
-# Tasks 
+# Python Packages
+
+- [pydantic](https://docs.pydantic.dev/latest/): Data validation using Python type hints
+- [python-dotenv](https://pypi.org/project/python-dotenv/): Read key-value pairs from a .env file and set them as environment variables
+- [typeshed](https://github.com/python/typeshed): Collection of library stubs for Python, with static types, such as
+  types-requests, psutil, etc.
+- [typing-extensions](https://github.com/python/typing_extensions): Backported and experimental type hints for Python
+- [pytest](https://docs.pytest.org/en/stable/): makes it easy to write small tests, yet scales to support complex functional testing
+
+# Tasks
 
 Please use `poe task_name` or `uv run poe task_name` to run tasks.
 
