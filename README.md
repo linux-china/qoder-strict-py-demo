@@ -1,7 +1,7 @@
 Utra-strict Python project template for Qoder
 ==============================================
 
-Ultra-strict Python project template using uv, ruff, and basedpyright.
+Ultra-strict Python demo project using uv, ruff, and basedpyright.
 
 # Toolbox
 
@@ -14,6 +14,7 @@ Ultra-strict Python project template using uv, ruff, and basedpyright.
 - Task runner: [poethepoet](https://github.com/nat-n/poethepoet) (format, check, metrics, etc.)
 - Code quality tools: [radon](https://pypi.org/project/radon/), [skylos](https://github.com/duriantaco/skylos)
 - Testing & coverage: pytest + coverage (80% minimum by default)
+- [pandera](https://pandera.readthedocs.io/en/stable/): Validating DataFrame-like Objects
 
 # Python Packages
 
