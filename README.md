@@ -1,4 +1,4 @@
-Utra-strict Python project template for Qoder
+Ultra-strict Python project template for Qoder
 ==============================================
 
 Ultra-strict Python demo project using uv, ruff, and basedpyright.
